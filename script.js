@@ -81,6 +81,7 @@ findThree.addEventListener("click", function(){
     three.textContent = answer;
 });
 
+//Задание 4
 const task4Button = document.querySelector (".task4Button");
 task4Button.addEventListener("click", function(){
     let x = "x";
